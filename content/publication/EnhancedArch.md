@@ -5,7 +5,7 @@ title = "Enhanced Security Architecture for Visual Cryptography Based on Image S
 date = "2020-10-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["*Manas Abhilash Gundapuneni*", "Anzum Bano", "Navjot Singh"]
+authors = ["Manas Abhilash Gundapuneni", "Anzum Bano", "Navjot Singh"]
 
 # Publication type.
 # Legend:
