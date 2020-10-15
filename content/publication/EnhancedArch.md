@@ -23,17 +23,7 @@ publication = "In *2020 11th IEEE Annual Ubiquitous Computing, Electronics & Mob
 publication_short = "In *IEEE UEMCON 2020*"
 
 # Abstract and optional shortened version.
-abstract = "This paper provides an approach to a new encryption architecture using
-double layer encryption standards for
-the existing secret sharing methodology. The image encryption
-standard in this scheme deals with both gray scale and color
-images and provides the experimental results. The paper deals
-with the transmission of multimedia such as images over insecure
-and secure networks, secret sharing helps to mask the image from
-the attacker by breaking it down to shares which are not at all
-related in the sense of content to the original image and provide
-the security of only reconstructing the original image when the
-client has all the shares."
+abstract = "This paper provides an approach to a new encryption architecture using double layer encryption standards for the existing secret sharing methodology. The image encryption standard in this scheme deals with both gray scale and color images and provides the experimental results. The paper deals with the transmission of multimedia such as images over insecure and secure networks, secret sharing helps to mask the image from the attacker by breaking it down to shares which are not at all related in the sense of content to the original image and provide the security of only reconstructing the original image when the client has all the shares."
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
