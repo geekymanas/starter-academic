@@ -2,7 +2,7 @@
 title = "Enhanced Security Architecture for Visual Cryptography Based on Image Secret Sharing"
 
 # Date first published.
-date = "2013-07-01"
+date = "2020-10-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Manas Abhilash Gundapuneni", "Anzum Bano", "Navjot Singh"]
