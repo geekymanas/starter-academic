@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/ESAFVC.pdf"
+url_pdf = "https://ieeexplore.ieee.org/document/9298166"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
