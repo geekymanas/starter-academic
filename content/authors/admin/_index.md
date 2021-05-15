@@ -65,7 +65,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a Final Year Undergraduate at <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering. My research interests lie primarily in the field of Systems and Networks. I had worked with <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Dr. Mayank Pandey</a> devising p2p Secure Video Conferencing and Live Streaming Over Internet Enabled Devices.
+I am starting a new phase of my academic career, I would be joining the University of Utah as a graduate student in the School of Computing from Fall 2021.
+
+I obtained my bachelors degree from <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering. My research interests lie primarily in the field of Systems and Networks. I had worked with <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Dr. Mayank Pandey</a> devising p2p Secure Video Conferencing and Live Streaming Over Internet Enabled Devices.
 
 I was advised by Supervisor <a href=http://mnnit.ac.in/profile/navjot>Dr. Navjot Singh</a>(now IIIT Allahabad) in the field of Image Processing and Visual Cryptography. I have theorized and implemented Enchanced Security Architecture for Visual Cryptography based on Image Secret Sharing, which provides novel approach to Visual Cryptography.
 
