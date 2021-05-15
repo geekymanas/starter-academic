@@ -52,9 +52,9 @@ social:
   link: https://github.com/geekymanas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,7 +65,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am starting a new phase of my academic career, I would be joining the University of Utah as a graduate student in the School of Computing from Fall 2021.
+I would be joining the University of Utah as a graduate student in the School of Computing from Fall 2021.
 
 I obtained my bachelors degree from <a href=https://mnnit.ac.in>Motilal Nehru National Institute of Technology</a> in the Department of Computer Science and Engineering. My research interests lie primarily in the field of Systems and Networks. I had worked with <a href=http://www.mnnit.ac.in/images/csedfp/mpandey/>Dr. Mayank Pandey</a> devising p2p Secure Video Conferencing and Live Streaming Over Internet Enabled Devices.
 
